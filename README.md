@@ -12,7 +12,7 @@ Full Stack Data Science Masters Course by iNeuron.ai:
         * Project: [Bank Management System](https://github.com/KrsnaAleti/Bank-Management-System_MySQL)
      * [MongoDB](https://github.com/KrsnaAleti/FSDS_iNeuron/tree/main/Databases/MongoDB)
      * [Cassandra](https://github.com/KrsnaAleti/FSDS_iNeuron/tree/main/Databases/Cassandra)
-       * [Databases-APIs](https://github.com/KrsnaAleti/FSDS_iNeuron/tree/main/Databases/Databases_APIs)
+     * [Databases-APIs](https://github.com/KrsnaAleti/FSDS_iNeuron/tree/main/Databases/Databases_APIs)
   3. [Flask](https://github.com/KrsnaAleti/FSDS_iNeuron/tree/main/Flask) - API_Postman_Flask
       * Creating an app > Connecting with Database > Deploying in Heroku: [Flask_Database_Heroku](https://github.com/KrsnaAleti/My_Resources/tree/main/Flask_Database_Heroku)
   4. [Django](https://github.com/KrsnaAleti/FSDS_iNeuron/tree/main/Django)
