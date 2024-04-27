@@ -1,4 +1,4 @@
-# FSDS_iNeuron
+# FSDS-Feb_iNeuron
 Full Stack Data Science Masters Course by iNeuron.ai: 
 [Course page](https://ineuron.ai/course/full-stack-data-science-feb21-batch?source=learn_page)
 
