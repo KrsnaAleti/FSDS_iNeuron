@@ -2,6 +2,8 @@
 Full Stack Data Science Masters Course by iNeuron.ai: 
 [Course page](https://ineuron.ai/course/full-stack-data-science-feb21-batch?source=learn_page)
 
+[Assignments](https://github.com/KrsnaAleti/iNeuron_Assignments)
+
   1. [Python_iNeuron Materials/Resources](https://github.com/KrsnaAleti/FSDS_iNeuron/tree/main/Python_iNeuron)
      *  [Python Projects/Tasks](https://github.com/KrsnaAleti/FSDS_iNeuron/tree/main/Python_iNeuron/Tasks_Challenges)
         * [OS Module Task](https://github.com/KrsnaAleti/FSDS_iNeuron/tree/main/Python_iNeuron/Tasks_Challenges/OS%20Module%20Task)
