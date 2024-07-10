@@ -17,3 +17,4 @@ Full Stack Data Science Masters Course by iNeuron.ai:
       * Creating an app > Connecting with Database > Deploying in Heroku: [Flask_Database_Heroku](https://github.com/KrsnaAleti/My_Resources/tree/main/Flask_Database_Heroku)
   4. [Django](https://github.com/KrsnaAleti/FSDS_iNeuron/tree/main/Django)
        * Connecting Django with PostgreSQL database: [Django_telusko](https://github.com/KrsnaAleti/My_Resources/tree/main/Django_telusko)
+       * [Travel-website-using-Django](https://github.com/KrsnaAleti/Travel-website-using-Django)
